@@ -1,0 +1,7 @@
+node_modules/
+client/node_modules/
+server/laborcompany.db
+*.db
+.env
+dist/
+client/dist/
