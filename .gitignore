@@ -2,6 +2,8 @@ node_modules/
 client/node_modules/
 server/laborcompany.db
 *.db
+*.db-shm
+*.db-wal
 .env
 dist/
 client/dist/
